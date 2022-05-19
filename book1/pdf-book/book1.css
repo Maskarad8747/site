@@ -1,0 +1,22 @@
+*{
+margin: 0;
+padding: 0;
+top: 0;
+left: 0; 
+	background: black;
+
+}
+body{
+
+	margin: 0px;
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+	color: white;
+}
+iframe{
+	width: 1900px;
+	height: 880px;
+	background: black;
+}
